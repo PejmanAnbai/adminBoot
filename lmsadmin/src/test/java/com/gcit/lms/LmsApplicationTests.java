@@ -9,7 +9,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class LmsApplicationTests {
 
-	
 	@Test
 	public void contextLoads() {
 	}
